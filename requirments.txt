@@ -1,0 +1,7 @@
+yfinance
+numpy
+pandas
+gym
+stable_baselines3 
+torch
+ta
