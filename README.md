@@ -9,7 +9,7 @@ google colab link : https://colab.research.google.com/drive/1W1GyJR_Rf9XeXdg0ekt
 To set up the project environment and install the required dependencies, follow these steps:
 
 ```bash
-# Clone the repository (Assuming you have set up a repository)
+# Clone the repository 
 git clone https://github.com/somsagar07/RL-stock-trading-.git
 cd your-project-directory
 
